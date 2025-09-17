@@ -1,0 +1,3 @@
+the devops is a combination of 2 words one is development another one is operations,
+
+*devops = development + operations
