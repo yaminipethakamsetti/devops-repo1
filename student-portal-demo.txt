@@ -1,0 +1,13 @@
+# Student Portal Demo
+
+This is a demo project for a *Student Portal Application*.
+
+## Idea
+The Student Portal will provide a digital platform for students to:
+- Log in securely with their student credentials.
+- View their personal profile, attendance, and academic records.
+- Access timetables, course materials, and notices.
+- Check examination results and grades.
+- Communicate with teachers or administrators.
+
+This repository is just a starting point to demonstrate the concept. Future development can include frontend (React/Angular), backend (Node.js/Java/Python), and database (MySQL/MongoDB).
